@@ -1,2 +1,2 @@
 # hello-world
-The hello-world repo as my first repo.
+THis repo is part of the 'Getting started' guide by Github.
